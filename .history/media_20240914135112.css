@@ -1,0 +1,16 @@
+@media(max-width:600px){
+
+  
+.container{
+        display: none;
+    }
+    section::before {
+        display: none;
+    }
+
+    section::after{
+        display: none;
+
+    }
+
+}

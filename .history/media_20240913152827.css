@@ -1,0 +1,15 @@
+@media (max-width:600px){
+
+  
+.container{
+        display: none;
+    }
+
+.container .card{
+        display: none;
+    }
+
+.card back-face{
+    
+}
+}
